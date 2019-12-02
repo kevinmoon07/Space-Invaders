@@ -30,7 +30,6 @@ public:
 private:
 	int m_row;
 	int m_col;
-	bool m_alive;
 };
 
 class BasicEnemy
