@@ -1,0 +1,6 @@
+﻿  createWorld.cpp
+C:\Users\kmoon\Coding\C++\Space-Invaders\Space-Game\Space-Game\createWorld.cpp(191,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  spaceGame.cpp
+  Generating Code...
+C:\Users\kmoon\Coding\C++\Space-Invaders\Space-Game\Space-Game\createWorld.cpp(192,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Space-Game.vcxproj -> C:\Users\kmoon\Coding\C++\Space-Invaders\Space-Game\x64\Debug\Space-Game.exe
