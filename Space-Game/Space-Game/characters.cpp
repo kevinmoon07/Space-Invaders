@@ -31,7 +31,6 @@ Player::Player(int row, int col)
 {
 	m_row = row;
 	m_col = col;
-	m_alive = true;
 }
 
 int Player::getRow()
